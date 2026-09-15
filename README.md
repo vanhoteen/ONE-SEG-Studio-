@@ -2,7 +2,15 @@
 
 **by vanhoteen**
 
-[English](README.md) · [Castellano](README.es.md) · [Asturianu](README.ast.md) · [Deutsch](README.de.md) · [Català](README.ca.md)
+## 🌐 Choose your language
+
+### [🇬🇧 English](README.md)
+### [🇪🇸 Castellano](README.es.md)
+### [<img src="Assets/flag-asturias.svg" width="32" alt="Bandera de Asturias"> Asturianu](README.ast.md)
+### [🇩🇪 Deutsch](README.de.md)
+### [<img src="Assets/flag-catalunya.svg" width="32" alt="Bandera de Catalunya"> Català](README.ca.md)
+
+---
 
 <img src="Assets/app-icon.png" width="180" alt="ONE SEG Studio icon">
 
