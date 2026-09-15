@@ -8,6 +8,10 @@
 
 A native macOS application that prepares a video for Japanese One-Seg reception and controls transmission through a HackRF One. Tested with a Sony XDV-D500. The author has also confirmed that the packaged application works on a second M1 Mac.
 
+## RF transmission and user responsibility
+
+Before transmitting, check the regulations in your country and the applicable frequency, power and licensing requirements. A Japanese channel number does not mean that frequency is authorized for your use elsewhere. Use a conducted or properly shielded test setup where appropriate, and do not cause harmful interference. The user is responsible for obtaining any required authorization and for the configuration and operation of the equipment. This project is provided for educational and experimental purposes; it does not grant permission to transmit. The author does not assume responsibility for unauthorized use or interference caused by the user, to the extent permitted by applicable law.
+
 ## What is One-Seg?
 
 Japanese ISDB-T digital television divides its signal into 13 segments. In the usual 12+1 configuration, twelve carry conventional television and the central segment carries a lower-resolution service for portable receivers. Robust reception settings and processing only one segment help make battery-powered reception practical, without an internet connection.

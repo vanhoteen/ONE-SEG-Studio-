@@ -8,6 +8,10 @@
 
 Eine native macOS-App, die Videos für den japanischen One-Seg-Empfang vorbereitet und die Übertragung mit einem HackRF One steuert. Getestet mit einem Sony XDV-D500. Der Entwickler hat außerdem bestätigt, dass die gebündelte App auf einem zweiten M1-Mac funktioniert.
 
+## Funkbetrieb und Verantwortung
+
+Prüfe vor dem Senden die Vorschriften deines Landes sowie die Anforderungen an Frequenzen, Leistung und Genehmigungen. Eine japanische Kanalnummer erlaubt nicht automatisch die Nutzung dieser Frequenz in einem anderen Land. Verwende gegebenenfalls einen kabelgebundenen oder ausreichend abgeschirmten Testaufbau und verursache keine schädlichen Störungen. Der Nutzer ist für erforderliche Genehmigungen, Gerätekonfiguration und Betrieb verantwortlich. Dieses Projekt dient Bildungs- und Experimentierzwecken und erteilt keine Sendegenehmigung. Soweit gesetzlich zulässig, übernimmt der Autor keine Verantwortung für unbefugte Nutzung oder vom Nutzer verursachte Störungen.
+
 ## Was ist One-Seg?
 
 Das japanische Digitalfernsehen ISDB-T unterteilt das Signal in 13 Segmente. Bei der üblichen 12+1-Konfiguration dienen zwölf dem herkömmlichen Fernsehen; das mittlere Segment überträgt einen Dienst mit geringerer Auflösung für tragbare Empfänger. Robuste Empfangseinstellungen und die Verarbeitung nur eines Segments erleichtern den Batteriebetrieb ohne Internetverbindung.

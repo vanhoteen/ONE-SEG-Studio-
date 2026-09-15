@@ -8,6 +8,10 @@
 
 Aplicación nativa pa macOS que prepara un videu pa la recepción xaponesa One-Seg y controla la tresmisión con un HackRF One. Probada con un Sony XDV-D500. L'autor confirmó tamién que l'aplicación empaquetada funciona n'otru Mac M1.
 
+## Emisión de radio y responsabilidá del usuariu
+
+Enantes d'emitir, comprueba la normativa del to país y los requisitos de frecuencia, potencia y autorización. Que una canal seya xaponesa nun significa que puedas usar esa frecuencia n'otru país. Usa pruebes per cable o un recintu bien apantalláu cuando corresponda y nun causes interferencies perxudiciales. L'usuariu ye responsable de les autorizaciones necesaries y de configurar y usar l'equipu. Esti proyeutu tien fines educativos y esperimentales; nun da permisu pa emitir. L'autor nun asume responsabilidá pol usu non autorizáu nin poles interferencies causaes pol usuariu, na midida permitida pola llexislación aplicable.
+
 ## ¿Qué ye One-Seg?
 
 La televisión dixital xaponesa ISDB-T divide la señal en 13 segmentos. Na configuración habitual de doce más ún, doce lleven televisión convencional y el segmentu central lleva una versión de menor resolución pa receptores pequeños. La recepción robusta y el procesamientu d'un solu segmentu faciliten l'usu con batería, ensin conexón a internet.
