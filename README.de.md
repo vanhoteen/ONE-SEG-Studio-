@@ -40,6 +40,11 @@ Das japanische Digitalfernsehen ISDB-T unterteilt das Signal in 13 Segmente. Bei
 
 Nur senden, wenn dies zulässig ist. Erforderlich ist ein Empfänger für japanisches One-Seg; ein gewöhnlicher DVB-T-Fernseher ist kein Ersatz.
 
+## Weitere Versionen
+
+- **[ONE SEG Web Lab — Beta](https://vanhoteen.github.io/ONE-SEG-Studio-WEB-/)** läuft in Chrome oder Edge mit einem an diesen Computer angeschlossenen HackRF. Es ist ein schneller Browser-Test und bereitet derzeit endliche Videoclips von bis zu **15 Sekunden** vor.
+- **[ONE SEG Studio für Linux — Ubuntu 26.04 amd64 Vorschau](https://github.com/vanhoteen/ONE-SEG-Studio-for-Linux---Ubuntu-26.04-amd64-Preview)** ist eine funktionierende Linux-Beta, die vom Autor unter Ubuntu 26.04 amd64 getestet wurde. Sie bleibt eine experimentelle Vorschau.
+
 ## Voraussetzungen und enthaltene Komponenten
 
 - Apple-Silicon-Mac, M1 oder neuer; dieser Build benötigt macOS 26 oder neuer.

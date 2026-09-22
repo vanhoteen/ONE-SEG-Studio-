@@ -40,6 +40,11 @@ La televisión digital japonesa ISDB-T divide su señal en 13 segmentos. En la c
 
 Transmite solo donde esté autorizado. Necesitas un receptor compatible con One-Seg japonés; una televisión DVB-T convencional no lo sustituye.
 
+## Otras versiones
+
+- **[ONE SEG Web Lab — Beta](https://vanhoteen.github.io/ONE-SEG-Studio-WEB-/)** funciona en Chrome o Edge con un HackRF conectado a ese ordenador. Es una prueba rápida desde el navegador y actualmente prepara vídeos finitos de hasta **15 segundos**.
+- **[ONE SEG Studio para Linux — Vista previa Ubuntu 26.04 amd64](https://github.com/vanhoteen/ONE-SEG-Studio-for-Linux---Ubuntu-26.04-amd64-Preview)** es una beta funcional para Linux, probada por el autor en Ubuntu 26.04 amd64. Sigue siendo una vista previa experimental.
+
 ## Requisitos y herramientas incluidas
 
 - Mac con Apple Silicon, M1 o posterior, y macOS 26 o posterior para esta compilación.

@@ -40,6 +40,11 @@ Created by **vanhoteen**, ONE SEG Studio brings a Japanese portable television b
 
 Use RF transmission only where authorized. The receiver must support Japanese One-Seg; a conventional DVB-T television is not a substitute.
 
+## Other editions
+
+- **[ONE SEG Web Lab — Beta](https://vanhoteen.github.io/ONE-SEG-Studio-WEB-/)** runs in Chrome or Edge with a HackRF connected to that computer. It is a quick browser-based test and currently prepares finite video clips of up to **15 seconds**.
+- **[ONE SEG Studio for Linux — Ubuntu 26.04 amd64 Preview](https://github.com/vanhoteen/ONE-SEG-Studio-for-Linux---Ubuntu-26.04-amd64-Preview)** is a working Linux beta, tested by the author on Ubuntu 26.04 amd64. It remains an experimental preview.
+
 ## Requirements and included tools
 
 - Apple Silicon Mac (M1 or later), macOS 26 or later for this build.

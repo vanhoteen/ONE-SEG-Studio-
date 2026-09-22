@@ -40,6 +40,11 @@ La televisión dixital xaponesa ISDB-T divide la señal en 13 segmentos. Na conf
 
 Tresmite namái onde tea autorizao. Precises un receptor compatible con One-Seg xaponés; un televisor DVB-T convencional nun sirve como sustitutu.
 
+## Otres versiones
+
+- **[ONE SEG Web Lab — Beta](https://vanhoteen.github.io/ONE-SEG-Studio-WEB-/)** funciona en Chrome o Edge con un HackRF conectáu a esi ordenador. Ye una prueba rápida nel navegador y anguaño prepara vídeos finitos de hasta **15 segundos**.
+- **[ONE SEG Studio pa Linux — Vista previa Ubuntu 26.04 amd64](https://github.com/vanhoteen/ONE-SEG-Studio-for-Linux---Ubuntu-26.04-amd64-Preview)** ye una beta funcional pa Linux, probada pol autor en Ubuntu 26.04 amd64. Sigue siendo una vista previa esperimental.
+
 ## Requisitos y ferramientes incluyíes
 
 - Mac con Apple Silicon, M1 o posterior, y macOS 26 o posterior pa esta compilación.
